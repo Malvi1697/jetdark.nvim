@@ -23,10 +23,19 @@ Ported from IntelliJ IDEA / PyCharm's dark theme with full support for Treesitte
 ## Supported Plugins
 
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
 - [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+- [hop.nvim](https://github.com/smoka7/hop.nvim)
+- [which-key.nvim](https://github.com/folke/which-key.nvim)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+- [todo-comments.nvim](https://github.com/folke/todo-comments.nvim)
+- [nvim-navic](https://github.com/SmiteshP/nvim-navic)
+- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
 - [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [copilot.vim](https://github.com/github/copilot.vim)
+- [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 
 ## Color Palette
