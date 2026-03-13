@@ -200,10 +200,10 @@ hi(0, 'TelescopeMatching',      { fg = '#548af7' })
 hi(0, 'TelescopeSelection',     { bg = '#43454a' })
 
 -- Hop
-hi(0, 'HopNextKey',   { fg = '#ffffff', bg = '#ff5f00', bold = true, nocombine = true })
-hi(0, 'HopNextKey1',  { fg = '#ffffff', bg = '#ff5f00', bold = true, nocombine = true })
-hi(0, 'HopNextKey2',  { fg = '#ffffff', bg = '#875f00', nocombine = true })
-hi(0, 'HopUnmatched', { fg = '#555555', nocombine = true })
+hi(0, 'HopNextKey',   { fg = '#ffffff', bg = '#02917c', bold = true, nocombine = true })
+hi(0, 'HopNextKey1',  { fg = '#ffffff', bg = '#02917c', bold = true, nocombine = true })
+hi(0, 'HopNextKey2',  { fg = '#c0ebe4', bg = '#036b5c', nocombine = true })
+hi(0, 'HopUnmatched', {})
 
 -- Which-key
 hi(0, 'WhichKey',          { fg = '#56a8f5' })
